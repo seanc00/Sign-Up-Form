@@ -2,3 +2,24 @@
   margin: 0;
   padding: 0;
 }
+
+.bigContainer {
+  border: solid black 1px;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  margin: 30px;
+  }
+
+.left {
+  border: solid green 5px;
+  width: 30%;
+
+  background: url("img/photo-1585202900225-6d3ac20a6962.avif") no-repeat center center;
+  background-size: cover;
+}
+
+.right {
+  border: solid blue 5px;
+  width: 70%;
+}
