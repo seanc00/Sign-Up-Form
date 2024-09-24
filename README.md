@@ -12,7 +12,6 @@ The form validates the inputs in real-time and displays error messages if the us
 
 ### Features:
 - **Responsive Design**: The form is styled to be responsive, ensuring it looks good on both desktop and mobile devices.
-- **Real-Time Validation**: As the user types, the form fields are validated, and feedback is provided immediately.
 - **Password Match Validation**: The "Confirm Password" field ensures that the entered password and confirmation match.
 - **Email Format Validation**: Ensures that the user enters a valid email format.
 - **Custom Error Messages**: Displays user-friendly error messages when the input does not meet validation criteria.
