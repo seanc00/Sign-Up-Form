@@ -72,11 +72,15 @@ table tr td {
   padding-right: 40px;
 }
 
+table td {
+  padding-bottom: 16px;
+}
+
 .createAccBtn {
   width: 160px;
   padding: 8px;
   color: white;
-  background-color: green;
+  background-color: #596D48;
   border: 0;
   border-radius: 4px;
 }
@@ -90,4 +94,9 @@ table tr td {
   margin-left: -32px;
   padding: 16px 0 16px 32px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bottom shadow */
+}
+
+.logInCTA > p > a {
+  text-decoration: none;
+  color: #596D48;
 }
